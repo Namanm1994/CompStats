@@ -14,11 +14,11 @@
    height="300"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="hypothesis_testing.svg"
-   inkscape:export-filename="/home/downey/Documents/hypothesis_testing.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:export-filename="/home/downey/CompStats/hypothesis_testing_small.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,13 +27,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.634"
-     inkscape:cx="159.73072"
+     inkscape:cx="10.097917"
      inkscape:cy="148.77601"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1030"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -470,7 +470,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
